@@ -1,11 +1,10 @@
 ### Submission Guidelines
 
-In order to submit you solution, simply create a folder having folder name of your github username and within that folder, submit your solutions 
-for the problems.
+In order to submit your solution, create a folder with your GitHub username followed by the folder named after the respective problem and submit your solutions in any acceptable language.
 
 -----------------------------------------------
 
-For example,
+For example:
 
-* create folder under submission folder like this `submission/prateekiiest`
-* under this new folder create  folder for the problem you are solving and its solution file - like `submission/prateekiiest/problem-1/solution.cpp`
+* Create folder (preferred username) in the directory submission: `submission/prateekiiest`
+* Inside the new folder, create the folder named after the respective problem followed by your submission in your preferred language: `submission/prateekiiest/problem-1/solution.cpp`

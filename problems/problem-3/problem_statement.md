@@ -34,6 +34,7 @@ Write a code in languages (C/C++/Python/Java or any other language you wish) suc
 ## Submission 
 
 For the given input: 4 7 2 3
+
 Find the given output. 
 
 Print the output in the following file

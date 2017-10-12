@@ -1,6 +1,7 @@
 
 ### Problem Statement
-Analyze the given input-output sequences and decode the logic behind it. Write a code snippet that will generate the corresponding input output pattern.
+Analyze the given input-output sequences and decode the logic behind it. 
+
 
 |**Input** |   **Output** |
 |:-:|---|
@@ -20,4 +21,4 @@ Print the given output in a new file for the input
 **input** => 1289
 
 
-Upload your solution in the given google form https://goo.gl/forms/mIubPehWfeWWkxtM2
+Upload your solution code in any language in the given google form https://goo.gl/forms/8NKhZDa1db0Koj4R2

@@ -1,6 +1,6 @@
 ### Problem Statement
 
-Write a code in languages (C/C++/Python/Java or any other language you wish) such that for the given input you get the given output.
+Find the logic behind it and submit the output for the below question
 
 #### Test Case 1
 **input**
@@ -37,4 +37,8 @@ For the given input: 4 7 2 3
 
 Find the given output. 
 
-Print the output in the following file
+In the submissions folder, submit only your output.  See [here](https://github.com/prateekiiest/Reverse-Coding/issues/4) for guidance. 
+
+Create a pull request and submit.
+
+Upload your solution code in any language in the given google form https://goo.gl/forms/8NKhZDa1db0Koj4R2v

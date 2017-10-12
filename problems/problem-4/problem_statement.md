@@ -34,3 +34,24 @@ Hint Something related to statistics
 **Output:**
 
 6.5 5
+
+ 
+
+## Question
+
+Find the output for the following input
+
+**Input:**
+
+10
+
+2 4 5 1 4 2 4 5 8 9
+
+
+In the submissions folder, submit only your output. See [here](https://github.com/prateekiiest/Reverse-Coding/issues/5) for guidance. Create a pull request and submit.
+
+Upload your solution code in any language in the given google form https://goo.gl/forms/8NKhZDa1db0Koj4R2
+
+
+
+

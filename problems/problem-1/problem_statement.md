@@ -20,4 +20,4 @@ Print the given output in a new file for the input
 **input** => 1289
 
 
-Upload your solution in the given google form https://goo.gl/forms/7qRfwMMnkTc2zCCv1
+Upload your solution in the given google form https://goo.gl/forms/mIubPehWfeWWkxtM2

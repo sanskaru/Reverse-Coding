@@ -4,28 +4,20 @@ Analyze the given input-output sequences and decode the logic behind it. Write a
 
 |**Input** |   **Output** |
 |:-:|---|
-| 23545 |  23632 |
-| 999   |  1001 |
-| 1234  |  1331 |
+| 128936 |  17 |
+| 321495   | 13 |
+| 2142  |  6 |
+|  11398    | 12   |
 
-First line indicates the number of  test cases
 
-**Input**
-
-2
-
-23545
-
-999
-
-**Output**
-
-23632
-
-1001
 
 
 
 ### Submission
+
+Print the given output in a new file for the input
+
+**input** => 1289
+
 
 Upload your code in the submission folder with appropriated file extention

@@ -27,4 +27,4 @@ In the submissions folder, submit only your output.  See [here](https://github.c
 
 Create a pull request and submit.
  
-Upload your code in the submission folder with appropriated file extention
+Upload your solution code in any language in the given google form https://goo.gl/forms/8NKhZDa1db0Koj4R2

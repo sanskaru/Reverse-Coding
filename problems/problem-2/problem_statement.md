@@ -1,5 +1,5 @@
 ### Problem Statement: 
-Given below is a message and the ouput is it's encrypted form. Your job is to find the logic used to encrpyt the message and create a program for the same. Note that the input message can only contain capital alphabets.
+Given below is a message and the ouput is it's encrypted form. Your job is to find the logic behind it and submit the output for the given input.
 
 
 ---------------------------------------------
@@ -22,5 +22,9 @@ Given below is a message and the ouput is it's encrypted form. Your job is to fi
 Only give the output for the following input :
 
 * **input** => 32 14 1 2 6
+
+In the submissions folder, submit only your output.  See [here](https://github.com/prateekiiest/Reverse-Coding/issues/3) for guidance. 
+
+Create a pull request and submit.
  
 Upload your code in the submission folder with appropriated file extention

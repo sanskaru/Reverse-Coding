@@ -5,7 +5,7 @@
 
 -----------------------------------------------------------------------
 
-The reporting time of the event is 9 am on 15th Oct at the PDSIT Labs, IIEST Shibpur. It will be a 90 minutes contest which will be hosted on Github. 
+The reporting time of the event is 9 A.M. on 15th October, 2017 at the PDSIT Labs, IIEST Shibpur. It will be a 90 Minutes contest which will be hosted on Github. 
 
 Its the first open source platform based event to be held in the campus and its all about Reverse Coding. 
 
@@ -13,17 +13,15 @@ Its the first open source platform based event to be held in the campus and its 
 The contest will contain four problems. 
 
 
-* Problem -1
-* Problem -2
-* Problem -3
-* Problem -4
+* Problem - 1
+* Problem - 2
+* Problem - 3
+* Problem - 4
 
   Each of the problems will have a set of input cases and output cases. 
   
   Like if the input is this, then output will be this. 
   At the end of the problem you will be given a question where an input value will be given and you have to figure out the output value.
-
-
 
 
 
